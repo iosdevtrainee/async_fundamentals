@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Callbacks'/>
+        <page name='Delegation'/>
+        <page name='Futures_Promises'/>
+        <page name='PromiseKit'/>
+        <page name='RxSwift'/>
+        <page name='Coroutines'/>
+    </pages>
+</playground>
